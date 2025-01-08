@@ -3,7 +3,10 @@
 
 <!-- 个人资料 -->
 <p align="center"> 
-<a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>&emsp;
+<a href="https://wakatime.com/@686cb66a-57c1-45d6-9e5c-6a2262804522">
+    <img align="center" src="https://wakatime.com/badge/user/686cb66a-57c1-45d6-9e5c-6a2262804522.svg">
+</a>&emsp;
+
 <a href="https://github.com/1781988" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-主页-%230d7fbf?style=flat"/></a>&emsp;
 <a href="https://space.bilibili.com/91538814" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>&emsp;
 <a href="https://komarev.com/ghpvc/?username=1781988&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=1781988&abbreviated=true"/></a>
