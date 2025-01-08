@@ -1,9 +1,5 @@
 <!-- 卡片徽章 -->
-<p align="center">
-<a href="https://tools.bugdesigner.cn/" target="_blank"><img align=center src="https://img.shields.io/badge/卡片徽章生成器-%2303a9f4?style=flat"/></a>&emsp;
-<a href="https://game.bugdesigner.cn/" target="_blank"><img align=center src="https://img.shields.io/badge/AI五子棋-%2303a9f4?style=flat"/></a>&emsp;
-<a href="https://www.querytransport.cn/" target="_blank"><img align=center src="https://img.shields.io/badge/物流管理系统-%2303a9f4?style=flat"/></a>&emsp;
-</p>
+
 
 <!-- 个人资料 -->
 <p align="center"> 
@@ -17,10 +13,7 @@
 菜但爱玩的鶸鸡一枚
 
 ## 我的项目📚
-- [项目A: 一个基于Vue3、SpringBoot和WebSocket的在线工具](https://github.com/1781988/ProjectA)
-- [项目B: 一个基于Electron和Vue3的桌面端效率软件](https://github.com/1781988/ProjectB)
-- [项目C: 一个基于Python的爬虫和数据分析工具](https://github.com/1781988/ProjectC)
-- [项目D: 一个高效的GitHub状态卡片生成器](https://github.com/1781988/ProjectD)
+
 
 ## 技术栈🛠️
 <p align="left"> 
